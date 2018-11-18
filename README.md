@@ -11,6 +11,7 @@
 
 >pip install opencv-contrib-python
 
+conda config --add channels conda-forge
 conda install -c akode face_recognition_models 
 
 Face-recognition:
